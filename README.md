@@ -1,1 +1,1 @@
-An simple next dashboard app
+An simple next dashboard app made with NEXTjs,  TailwindCss, Postgres and Typescript.
